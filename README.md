@@ -17,6 +17,7 @@
   <div>
     <h3>Project Lead: Félix</h3>
   </div>
+  <p>----------------------</p>
   <h2>Meet Ascendant Staff!</h2>
   <div>
   <h3>Developers:</h3>
@@ -25,14 +26,17 @@
     <h4>Micheal</h4>
     <h4>Simon</h4>
     <h4>Sully</h4>
+    <p>------</p>
   <h3>Game Devs:</h3>
     <h4>Marshal</h4>
     <h4>Nathan</h4>
+    <p>------</p>
   <h3>GFX:</h3>
     <h4>Angelo</h4>
     <h4>Boxer</h4>
     <h4>Gatteru</h4>
     <h4>Moki</h4>
     <h4>Xodeus</h4>
+    <p>------</p>
   </div>
 </div>
