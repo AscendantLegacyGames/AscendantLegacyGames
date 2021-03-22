@@ -1,5 +1,5 @@
 # Welcome To The AscendantLegacyGames Github!
-<h2 style="color: #eb4034" >Test</h2>
+<h2 style="color: #eb4034" >Links:</h2>
 <a href="https://ascendantlegacy.dev" target="_blank">Our Website</a>
 <p>Here you may find our latest and most up-to-date projects, our git for the public is primarely for documentation on our products!</p>
 
