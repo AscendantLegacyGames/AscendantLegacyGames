@@ -12,9 +12,6 @@
     <h3>Administrator: Kal</h3>
   </div>
   <div>
-    <h3>Administrator: Landon</h3>
-  </div>
-  <div>
     <h3>Project Lead: Félix</h3>
   </div>
   <p>----------------------</p>
@@ -23,6 +20,7 @@
   <h3>Developers:</h3>
     <h4>Aikon</h4>
     <h4>cobolt</h4>
+    <h4>Landon</h4>
     <h4>Micheal</h4>
     <h4>Simon</h4>
     <h4>Sully</h4>
